@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
 title: Fady Sadek
-url: "https://fadysamirsadek.github.io"
-baseurl: "/Fady-Sadek-Blog"
+url: "http://fadysadek.me/"
+baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
