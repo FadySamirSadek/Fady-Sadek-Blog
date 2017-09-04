@@ -1,15 +1,15 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: Fady Sadek
+url: "https://fadysamirsadek.github.io"
+baseurl: "/Fady-Sadek-Blog"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    Fady <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: fadysamirsadek@live.com
+author: fadysamirsadek
 # This description will show up in google search results
 # (for index page) etc.
 description: >
