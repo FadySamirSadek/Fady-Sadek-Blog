@@ -5,11 +5,14 @@ author: Ankit Sultana
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi! My name is Fady Samir Sadek!
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+>I like the way you work it ... No diggity, I got to bag it up
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am 19 years old. I am currently in my second year @ Nile university majoring in Computer science.
 
+I love Javascript , I can not say i am good at it but I can definitely say I enjoy working with it.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Currently I am studying reactjs and trying to become a better javascript developer by doing some wired activities in my free time , to mention a few I am trying to finish reading the Ecma Script Specification.
+
+I am going to mainly blog about the stuff that I find intresting or the stuff that I think will benefit other people. Also I am currently working full time in a software development house , I work mainly with stuff like angular 4 , sass , less so I am going to blog also about the intresting stuff I learn in my day job working on cool stuff or from my awesome collegues.
