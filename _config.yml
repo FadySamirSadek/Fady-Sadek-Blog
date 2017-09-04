@@ -13,7 +13,7 @@ author: Fady Sadek
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    This Blog is about javascript and some other stuff 
 
 # This will what will show against &copy; in the footer
 copyright: Fady Sadek
@@ -22,12 +22,8 @@ copyright: Fady Sadek
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
+    I am a geek who is currently in his second year of his computer science degree<br/>
+    I like coding , blog , music , soda. This blog will be my way to share my thoughts and weird intrests with the world.
 
 permalink: /:title.html
 
