@@ -9,7 +9,7 @@ site_heading: >
     Fady <span class="faded">'s blog</span>
 
 email: fadysamirsadek@live.com
-author: fadysamirsadek
+author: Fady Sadek
 # This description will show up in google search results
 # (for index page) etc.
 description: >
@@ -39,7 +39,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    I do javascript and some other stuff.
 
 about_footer: true
 
@@ -50,7 +50,7 @@ facebook_id: fadysamirsadek
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: images/temp.png
+profile_picture: images/profile-picture.jpg
 paginate: 5
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
