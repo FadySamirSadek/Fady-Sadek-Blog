@@ -1,7 +1,7 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: Fady Sadek
+author: Fady Sadek
 permalink: /about
 ---
 
