@@ -35,7 +35,7 @@ Here are some of the projects that I contributed to in 2017:
 3.Redesign my own website
 -------------------------
 It is funny almost all the web designers and developers I know either have poorly designed websites or do not have at all which is kind of sarcastic . This is what I do full time I make websites and I do not have the time to build my own website which is crazy.
-There is an project started by [the amazing jen simmons](https://twitter.com/jensimmons) that aims to encourage web designers and developers to build their own websites by posting or tweet about their plan and a deadline for them to publish their new website.
+There is a project started by [the amazing jen simmons](https://twitter.com/jensimmons) that aims to encourage web designers and developers to build their own websites by posting or tweet about their plan and a deadline for them to publish their new website.
 
 **My plan is to redesign and publish my own website by the end of February2018**
 
